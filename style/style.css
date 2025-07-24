@@ -12,10 +12,14 @@
   font-style: normal;
 }
 
-.trusted-badge{
-  /* display: flex;
-  justify-content: end;
-  margin-top: -100px;
-  margin-left: 38%;
-  z-index: 2; */
+/* Latest  Deals Section */
+
+.banner-1{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5)), url(../assets/deal-bloom.png);
+}
+.banner-2{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5)), url(../assets/deal-ana.png);
+}
+.banner-3{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5)), url(../assets/deal-zabo.png);
 }
