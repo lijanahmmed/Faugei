@@ -29,3 +29,10 @@
 .join-banner{
   background-image: url(../assets/news-letter-bg.png);
 }
+
+/* Footer Section */
+
+.icon-image img{
+  height: 30px;
+  width: 30px;
+}
