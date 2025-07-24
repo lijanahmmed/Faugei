@@ -15,11 +15,17 @@
 /* Latest  Deals Section */
 
 .banner-1{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5)), url(../assets/deal-bloom.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4)), url(../assets/deal-bloom.png);
 }
 .banner-2{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5)), url(../assets/deal-ana.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4)), url(../assets/deal-ana.png);
 }
 .banner-3{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5)), url(../assets/deal-zabo.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4)), url(../assets/deal-zabo.png);
+}
+
+/* Join Section */
+
+.join-banner{
+  background-image: url(../assets/news-letter-bg.png);
 }
